@@ -1,0 +1,5 @@
+student-scores.csv
+https://www.kaggle.com/datasets/mexwell/student-scores
+
+Students Social Media Addiction.csv
+https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
